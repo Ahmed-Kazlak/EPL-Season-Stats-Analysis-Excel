@@ -22,3 +22,5 @@ Microsoft Excel: Used for data cleaning, analysis, and visualization.
 * European Competitions: Determined the teams qualifying for the Champions League and Europa League each season.<br />
 * Relegation: Highlighted the teams relegated to the Championship each season.<br />
 * Top 5 Teams: Showcased the top 5 teams in various metrics like wins, losses, draws, clean sheets, passes, and long balls.<br />
+# Report:
+![Alt text](https://github.com/Ahmed-Kazlak/EPL-Season-Stats-Analysis-Excel/blob/main/EPL%20Season%20Stats%20Analysis.PNG?raw=true)
